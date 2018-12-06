@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="demosuite" verbose="3" >
+  <test name="Test" >
+  <parameter name="browser" value="chrome"></parameter>
+    <classes>
+       <class name="TestCases.LoginSuccessfullTestCase"/>
+    </classes>
+  </test>
+
+ 
+</suite>

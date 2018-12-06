@@ -1,0 +1,6 @@
+[INFO] 2018-12-06 13:10:27,751 ReadCell.cellValuesByColumnName:26  Get cell values by column name = username
+[INFO] 2018-12-06 13:10:27,773 ReadCell.cellValuesByColumnName:26  Get cell values by column name = password
+[INFO] 2018-12-06 13:12:09,519 ReadCell.cellValuesByColumnName:26  Get cell values by column name = username
+[INFO] 2018-12-06 13:12:09,580 ReadCell.cellValuesByColumnName:26  Get cell values by column name = password
+[INFO] 2018-12-06 13:12:09,599 LoginSuccessfullTestCase.executeTestCase:31  Navigate to Login Page
+[INFO] 2018-12-06 13:12:12,268 LoginSuccessfullTestCase.executeTestCase:34  Login in with username: phamn1985@gmail.com and password: dumbpassword
